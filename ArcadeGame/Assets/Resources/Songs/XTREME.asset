@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 220be10e4d4abf14f809a1db72cbe3c3, type: 3}
+  m_Name: XTREME
+  m_EditorClassIdentifier: 
+  songTitle: XTREME
+  songArtist: USAO
+  songGenre: Pumpcore
+  songID: xtreme
+  songBpm: 205
+  jacket: {fileID: 21300000, guid: 83cc59699ccbf2f46a2ab85ad3556a05, type: 3}
+  bg: {fileID: 21300000, guid: 805b7b656e661e54ba2097c04a5cd172, type: 3}
+  songAudio: {fileID: 8300000, guid: a96067c40f7f71e4b84c2ebcadc48e53, type: 3}
+  easyDiffNumber: 16
+  easyNoteCount: 4
+  easyChartFile: {fileID: 4900000, guid: 6786f8a358be6d54e82d12da6e729b3d, type: 3}
+  normalDiffNumber: 0
+  normalNoteCount: 
+  normalChartFile: {fileID: 0}
+  hardDiffNumber: 0
+  hardNoteCount: 
+  hardChartFile: {fileID: 0}

@@ -1,0 +1,212 @@
+{
+    "name": "InputMaster",
+    "maps": [
+        {
+            "name": "Player",
+            "id": "32d4c5e2-2c23-4b84-b723-76bd3cf7a36a",
+            "actions": [
+                {
+                    "name": "Key1",
+                    "type": "Button",
+                    "id": "27966f7d-7085-4f8d-8749-acba030060b3",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Key2",
+                    "type": "Button",
+                    "id": "026ff1a7-6370-49ad-bf22-30133c4c4457",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Key3",
+                    "type": "Button",
+                    "id": "19d6cac5-637a-4662-a451-6cc385a023f5",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Key4",
+                    "type": "Button",
+                    "id": "915a29e9-608e-4f49-bec1-39730a5d18b7",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "KeyL",
+                    "type": "Button",
+                    "id": "5f6f7c5d-a4cb-40e6-955d-6bffb374cb57",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "KeyR",
+                    "type": "Button",
+                    "id": "54a73e0d-4a4d-4456-9ef0-238ed51a869b",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "KeyAir",
+                    "type": "Button",
+                    "id": "e32b9833-18b9-40b6-b4c3-bf83aa697bb9",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "fdefbf8c-5c84-4629-b71a-5d84870e1bd5",
+                    "path": "<Keyboard>/z",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Key1",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1557afdb-5773-45ce-8f1b-e79a30fa8aae",
+                    "path": "<Keyboard>/x",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Key2",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "79bd70dd-49ee-4779-8656-bb491e50f383",
+                    "path": "<Keyboard>/period",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Key3",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9567e312-422e-4639-bf39-b37be8d3f765",
+                    "path": "<Keyboard>/slash",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Key4",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2bb25014-d71e-4078-9672-7e7ff01abca6",
+                    "path": "<Keyboard>/leftShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyL",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "2bd29151-09e8-4597-8c96-7d295803b2e2",
+                    "path": "<Keyboard>/rightShift",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyR",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "eeb5c115-80ce-4357-a863-5370f08f305e",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "KeyAir",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        },
+        {
+            "name": "UI",
+            "id": "79a412af-abe9-4b86-9a61-550b0ad1210b",
+            "actions": [
+                {
+                    "name": "MenuUp",
+                    "type": "Button",
+                    "id": "d903a469-7d2b-420d-bb93-c762cd8de855",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MenuDown",
+                    "type": "Button",
+                    "id": "c09212d0-9a1e-444d-b2f0-71145e007aef",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "MenuAccept",
+                    "type": "Button",
+                    "id": "dfac4d78-7904-4f33-a52e-138da9c1ebde",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "665e5710-df20-412b-a63a-e331ff672aa6",
+                    "path": "<Keyboard>/upArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuUp",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "1624e50a-2b1a-4f04-9d09-da8888fc112b",
+                    "path": "<Keyboard>/downArrow",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuDown",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "9d561c74-b165-4a01-9694-220eef0ee5b8",
+                    "path": "<Keyboard>/enter",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "MenuAccept",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
